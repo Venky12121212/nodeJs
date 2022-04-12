@@ -1,0 +1,15 @@
+{
+  "name": "05-creating-server-with-express",
+  "version": "1.0.0",
+  "description": "\"server creation with express\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}

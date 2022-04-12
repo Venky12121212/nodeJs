@@ -1,0 +1,85 @@
+ Oracle				    MongoDB
+--------		       ----------
+Relational Database		No sql Database
+Tables				Collections
+Rows				Document
+Columns				Fields
+
+
+we can perform maily 4 operations in DB i.e.
+
+CREATE, UPDATE, DELETE, READ (CRUD)
+--------------------------------
+-> Shell commands
+
+-> Application -> Driver (3rd party module (Mangoose)) -> Mongo DB
+
+
+-> Mongo DB -> Local / Cloud
+
+How to see the services on windows based machine:---- services.msc(In run command)
+
+Shell commands using mongoDB(CRUD):-
+----------------------------------------
+https://github.com/thenaveensaggam/UI_Development_Course_Content/blob/master/mongo_db.md
+
+	queryInfo						                            Commands
+	----------						                            ----------
+Create or swith to Db:-  	    				                use test_db
+
+next thing create collection like (table name)			db.createCollection('tableName');
+
+show all collections						                    show collections
+
+insert an employee(Create)						                db.tableName.insertOne({
+                                                                        name: 'venky', age: 24, designation: 'Software engineer', isActive: 'true'
+                                                                        });
+
+Insert Many records at a time()   				                db.tableName.insertMany([{object1, object2, ......}]);
+
+Read operation	(Read)						                    db.tableName.find().pretty();  // for relational data base we use (Select * from Employee)
+
+How to search a perticular Record				                db.employee.find({name : 'Venky'}).pretty();
+
+Update Record	(Update)						                db.employee.updateOne({name: 'Srinu'}, {
+                                                                                    $set: {
+                                                                                        age: 46,
+                                                                                        designation: 'Sr.Business man'
+                                                                                           }
+                                                                                    });
+
+
+If you visualize the data we have to use:--   Mongo DB Compass -> GUI
+
+Install MongoDb Compass:
+-------------------------------
+Go to Mongodb website -> hover on "software" -> select Compass
+
+
+	**********************************How to host the data in to cloud*******************************
+Mongodb -> mongoose
+
+Mongo db Atlas in your search engine.
+
+
+
+Mongo DB Atlas:- (Actual Local database:- mongodb://127.0.0. 27017/)
+---------------------
+-> signup/login
+-> create a project
+-> create cluster
+-> Database access (To create a user)
+-> Addlist IP address(Network access)
+
+
+Then how to connect Mongo db Atlas through command shell(cmd):-
+--------------------------------------------------------------------
+In mongo db atlas
+-> Go to cluster ->
+Connect cluster -> if you Choose select connect mongo-db-shell (copy the url(mongo "mongodb+srv://employee-portal.m9rxc.mongodb.net/<dbname>" --username venky12 ))
+				                                            OR
+		            if you choose Compass(mongodb+srv://venky12:Venky12@employee-portal.m9rxc.mongodb.net/test);
+
+
+
+

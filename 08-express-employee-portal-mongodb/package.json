@@ -1,0 +1,17 @@
+{
+  "name": "08-express-employee-portal-mongodb",
+  "version": "1.0.0",
+  "description": "express server with Mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Venky",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "uuid": "^8.3.2"
+  }
+}

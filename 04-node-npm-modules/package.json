@@ -1,0 +1,16 @@
+{
+  "name": "04-node-npm-modules",
+  "version": "1.0.0",
+  "description": "Example of npm modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Venky",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

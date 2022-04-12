@@ -1,0 +1,14 @@
+{
+  "name": "06-express-routing-bootstrap",
+  "version": "1.0.0",
+  "description": "Express Routing with bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Venky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

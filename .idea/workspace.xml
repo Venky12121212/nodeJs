@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e6e5ec5-f446-4f9f-833b-0af9670fafae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jODZOL11IT2HOrm6IR0qWPRntM" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactWorkSpace/employee-portal" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\nodeJS\08-express-employee-portal-mongodb" />
+      <recent name="D:\workspace\nodeJS\06-express-routing-bootstrap\views" />
+      <recent name="D:\workspace\nodeJS\06-express-routing-bootstrap\public" />
+      <recent name="D:\workspace\nodeJS\05-creating-server-with-express\data" />
+      <recent name="D:\workspace\nodeJS\04-node-npm-modules\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\nodeJS\04-node-npm-modules\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e6e5ec5-f446-4f9f-833b-0af9670fafae" name="Default Changelist" comment="" />
+      <created>1603666298888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603666298888</updated>
+      <workItem from="1603666300649" duration="4001000" />
+      <workItem from="1603678493840" duration="2648000" />
+      <workItem from="1605426272814" duration="5370000" />
+      <workItem from="1605435920057" duration="11421000" />
+      <workItem from="1605461610896" duration="1764000" />
+      <workItem from="1605939096959" duration="235000" />
+      <workItem from="1606471158130" duration="5260000" />
+      <workItem from="1606922658749" duration="34971000" />
+      <workItem from="1607772029329" duration="10402000" />
+      <workItem from="1608089072603" duration="1189000" />
+      <workItem from="1608133350913" duration="6829000" />
+      <workItem from="1608887624946" duration="13005000" />
+      <workItem from="1609560510612" duration="8042000" />
+      <workItem from="1610775363854" duration="13907000" />
+      <workItem from="1611386786953" duration="588000" />
+      <workItem from="1612539172267" duration="8707000" />
+      <workItem from="1613831880009" duration="565000" />
+      <workItem from="1614014145940" duration="2865000" />
+      <workItem from="1649497435690" duration="1829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
